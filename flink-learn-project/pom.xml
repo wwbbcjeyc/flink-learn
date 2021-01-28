@@ -11,5 +11,13 @@
 
     <artifactId>flink-learn-project</artifactId>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.zjtd</groupId>
+            <artifactId>flink-learn-common</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
+
 
 </project>
