@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="68bddb63-a3c8-467b-8586-d1f16a697ca0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$USER_HOME$/maven/Repository" />
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="userSettingsFile" value="$USER_HOME$/maven/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="283kVCjaJFSDgxA0kxI8xqteFX4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RunManager" selected="Application.SimpleTableExample02">
+    <configuration name="EventTimeTimerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.wwb.process.EventTimeTimerTest" />
+      <module name="flink-learn-base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wwb.process.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KafkaSourceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.wwb.source.KafkaSourceTest" />
+      <module name="flink-learn-base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wwb.source.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShuffleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.wwb.shuffle.ShuffleTest" />
+      <module name="flink-learn-base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wwb.shuffle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleTableExample02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.wwb.sql.SimpleTableExample02" />
+      <module name="flink-learn-base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wwb.sql.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TopNExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.wwb.example.TopNExample" />
+      <module name="flink-learn-base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wwb.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ShuffleTest" />
+      <item itemvalue="Application.EventTimeTimerTest" />
+      <item itemvalue="Application.TopNExample" />
+      <item itemvalue="Application.KafkaSourceTest" />
+      <item itemvalue="Application.SimpleTableExample02" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SimpleTableExample02" />
+        <item itemvalue="Application.KafkaSourceTest" />
+        <item itemvalue="Application.TopNExample" />
+        <item itemvalue="Application.EventTimeTimerTest" />
+        <item itemvalue="Application.ShuffleTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68bddb63-a3c8-467b-8586-d1f16a697ca0" name="Default Changelist" comment="" />
+      <created>1650452678258</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650452678258</updated>
+      <workItem from="1650452679753" duration="6476000" />
+      <workItem from="1650466224110" duration="21145000" />
+      <workItem from="1650780706433" duration="1004000" />
+      <workItem from="1650782286942" duration="216000" />
+      <workItem from="1650782595050" duration="148000" />
+      <workItem from="1650782771304" duration="742000" />
+      <workItem from="1650783635646" duration="48000" />
+      <workItem from="1650783696084" duration="53000" />
+      <workItem from="1650783773866" duration="14451000" />
+      <workItem from="1650857629969" duration="1917000" />
+      <workItem from="1650867029961" duration="6759000" />
+      <workItem from="1650887778630" duration="296000" />
+      <workItem from="1650896688291" duration="1992000" />
+      <workItem from="1650939972334" duration="470000" />
+      <workItem from="1650943421654" duration="1224000" />
+      <workItem from="1651113310598" duration="1095000" />
+      <workItem from="1651115348570" duration="396000" />
+      <workItem from="1651116574846" duration="529000" />
+      <workItem from="1651118695749" duration="1649000" />
+      <workItem from="1651157945035" duration="12980000" />
+      <workItem from="1651676274065" duration="2208000" />
+      <workItem from="1651720510328" duration="809000" />
+      <workItem from="1651735511672" duration="482000" />
+      <workItem from="1651852860491" duration="192000" />
+      <workItem from="1652259069033" duration="13000" />
+      <workItem from="1652325885732" duration="95000" />
+      <workItem from="1652326113029" duration="13000" />
+      <workItem from="1652326196017" duration="5058000" />
+      <workItem from="1652357763979" duration="636000" />
+      <workItem from="1652377413772" duration="2402000" />
+      <workItem from="1652390309888" duration="571000" />
+      <workItem from="1652424934811" duration="139000" />
+      <workItem from="1652433210461" duration="737000" />
+      <workItem from="1652666185462" duration="77000" />
+      <workItem from="1653010560004" duration="2401000" />
+      <workItem from="1653014409052" duration="618000" />
+      <workItem from="1653026314090" duration="602000" />
+      <workItem from="1653039948393" duration="1072000" />
+      <workItem from="1653184990822" duration="3090000" />
+      <workItem from="1653287117650" duration="30000" />
+      <workItem from="1653367924028" duration="65000" />
+      <workItem from="1653398211979" duration="89000" />
+      <workItem from="1653458454765" duration="2909000" />
+      <workItem from="1654000034945" duration="608000" />
+      <workItem from="1654003051087" duration="629000" />
+      <workItem from="1655438448536" duration="2451000" />
+      <workItem from="1655989996920" duration="331000" />
+      <workItem from="1655996782750" duration="21000" />
+      <workItem from="1658161250130" duration="2150000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="109" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1655439044085">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="109" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1655439044085" />
+    <state x="533" y="170" key="#com.intellij.ide.util.MemberChooser" timestamp="1650462338920">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="170" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1650462338920" />
+    <state width="1398" height="213" key="GridCell.Tab.0.bottom" timestamp="1658162654834">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="213" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1658162654834" />
+    <state width="783" height="221" key="GridCell.Tab.0.bottom/0.25.1440.790@0.25.1440.790" timestamp="1650864717853" />
+    <state width="1398" height="281" key="GridCell.Tab.0.bottom/0.25.1440.791@0.25.1440.791" timestamp="1651421585744" />
+    <state width="1398" height="258" key="GridCell.Tab.0.bottom/0.25.1440.794@0.25.1440.794" timestamp="1650544887872" />
+    <state width="1398" height="213" key="GridCell.Tab.0.center" timestamp="1658162654833">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="213" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1658162654833" />
+    <state width="783" height="221" key="GridCell.Tab.0.center/0.25.1440.790@0.25.1440.790" timestamp="1650864717852" />
+    <state width="1398" height="281" key="GridCell.Tab.0.center/0.25.1440.791@0.25.1440.791" timestamp="1651421585744" />
+    <state width="1398" height="258" key="GridCell.Tab.0.center/0.25.1440.794@0.25.1440.794" timestamp="1650544887862" />
+    <state width="1398" height="213" key="GridCell.Tab.0.left" timestamp="1658162654833">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="213" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1658162654833" />
+    <state width="783" height="221" key="GridCell.Tab.0.left/0.25.1440.790@0.25.1440.790" timestamp="1650864717852" />
+    <state width="1398" height="281" key="GridCell.Tab.0.left/0.25.1440.791@0.25.1440.791" timestamp="1651421585743" />
+    <state width="1398" height="258" key="GridCell.Tab.0.left/0.25.1440.794@0.25.1440.794" timestamp="1650544887860" />
+    <state width="1398" height="304" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.790" timestamp="1650856579335" />
+    <state width="1398" height="213" key="GridCell.Tab.0.right" timestamp="1658162654834">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="213" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1658162654834" />
+    <state width="783" height="221" key="GridCell.Tab.0.right/0.25.1440.790@0.25.1440.790" timestamp="1650864717853" />
+    <state width="1398" height="281" key="GridCell.Tab.0.right/0.25.1440.791@0.25.1440.791" timestamp="1651421585744" />
+    <state width="1398" height="258" key="GridCell.Tab.0.right/0.25.1440.794@0.25.1440.794" timestamp="1650544887871" />
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom" timestamp="1650856710477">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1650856710477" />
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom/0.25.1440.790@0.25.1440.790" timestamp="1650856659228" />
+    <state width="1398" height="304" key="GridCell.Tab.1.center" timestamp="1650856710477">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1650856710477" />
+    <state width="1398" height="304" key="GridCell.Tab.1.center/0.25.1440.790@0.25.1440.790" timestamp="1650856659227" />
+    <state width="1398" height="304" key="GridCell.Tab.1.left" timestamp="1650856710477">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1650856710477" />
+    <state width="1398" height="304" key="GridCell.Tab.1.left/0.25.1440.790@0.25.1440.790" timestamp="1650856659227" />
+    <state width="1398" height="304" key="GridCell.Tab.1.right" timestamp="1650856710477">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1650856710477" />
+    <state width="1398" height="304" key="GridCell.Tab.1.right/0.25.1440.790@0.25.1440.790" timestamp="1650856659228" />
+    <state x="258" y="109" key="Maven.ArtifactSearchDialog" timestamp="1658163549633">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="258" y="109" key="Maven.ArtifactSearchDialog/0.0.1440.900@0.0.1440.900" timestamp="1658163549633" />
+    <state x="229" y="57" key="SettingsEditor" timestamp="1658162629879">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="57" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1658162629879" />
+    <state x="355" y="110" key="new project wizard" timestamp="1650897464602">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="355" y="110" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1650897464602" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1655438729408">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1655438729408" />
+  </component>
+</project>
